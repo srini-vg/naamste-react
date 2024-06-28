@@ -1,4 +1,20 @@
 # Namaste  React 
+/**
+ * Header
+ *  - Logo
+ *  - Nav Items
+ * Body
+ *  - Search
+ *  - RestaurantContainer
+ *      - RestaurantCard
+ *          - Img
+ *          - Name of Res, Star Rating, Cusines, delivery time
+ * Footer
+ *  - Copyright
+ *  - Links
+ *  - Address
+ *  - Contact
+ */
 
 # Parcel
 - Dev Build
@@ -16,3 +32,8 @@
 - HTTPs Support
 - Tree Shaking - remove unused code 
 - Different dev and prod bundles
+
+# React Hooks
+(Normal Js Utility functions)
+- useState() - Superpowerful state variables in React
+- useEffect() - 
